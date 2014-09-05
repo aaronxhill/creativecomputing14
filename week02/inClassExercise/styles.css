@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(255,255,205);
+    font-family: times new roman; 
+    margin-left: 200px; 
+    }
+
+#para2 {
+    text-indent: 80px; 
+}
+
+#para4 {
+    text-indent: 50px; 
+}
+
+#para6 {
+    text-indent: 150px; 
+}
+
+.names {
+    font-variant: small-caps;
+}

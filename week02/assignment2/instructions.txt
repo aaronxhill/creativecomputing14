@@ -1,0 +1,29 @@
+Assignment 2
+
+Download the assignment files at:
+https://github.com/aaronxhill/creativecomputing14
+
+Content: 
+Katie, Katie, bo-batie,
+Banana-fana fo-fatie
+Fee-fi-mo-matie
+Katie!
+
+http://en.wikipedia.org/wiki/The_Name_Game
+http://vimeo.com/56800630
+
+1. In "namegame.html" add structure to the text in the body element by adding appropriate HTML tags to the content. 
+
+2. In this assignment, you will be using the JavaScript file "nameChange.js" to update the content of "namegame.html" with names other than "Katie." In order to do this, you need to create span elements that will classify the three instances of "Katie" as a first name and the three instances of "atie" as a stem of the first name (the first name without the first consonant sound). In "namegame.html": 
+
+a. Create three new span elements around the three instances of "Katie" with a class attribute of "firstName"
+
+b. Create three new span elements around the three instances of "atie" with a class attribute of "firstNameStem"
+
+3. Follow the instructions in the comments in the JavaScript file "nameChange.js" to create two new variables that will hold a first name and the stem of that first name. 
+
+4. Test your work by making changes to the values of the new variables you created in the JavaScript file, saving the JavaScript file, and refreshing the HTML page. 
+
+5. Edit the CSS file "styles.css" to style the content. Use Chrome Developer Tools to make this process easier and more efficient. 
+
+6. Upload the three modified files: namegame.html, nameChange.js, and styles.css to Canvas under "Assignments." 
